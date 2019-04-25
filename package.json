@@ -11,7 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/Mindysueasaurus/GraphQL-practice.git"
   },
-  "author": "Mindysueasaurus",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Mindysueasaurus/GraphQL-practice/issues"
